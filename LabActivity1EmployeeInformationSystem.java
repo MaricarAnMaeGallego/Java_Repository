@@ -12,12 +12,12 @@ public class LabActivity1EmployeeInformationSystem {
         System.out.print("Enter your age: ");
         int age = scanner.nextInt();
         System.out.print("Enter hours worked: ");
-        double hoursWorked = scanner.nextDouble();
+        float hoursWorked = scanner.nextFloat();
         System.out.print("Enter hourly wage: ");
         float hourlyWage = scanner.nextFLoat();
 
         // Using the operation, hoursWorked and hourlyWage to compute the daily salary
-        double dailySalary = hoursWorked * hourlyWage;
+        float dailySalary = hoursWorked * hourlyWage;
 
         // Output the Employee's Information
         System.out.println("\nEmployee Information");
