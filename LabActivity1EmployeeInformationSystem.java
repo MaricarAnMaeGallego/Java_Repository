@@ -14,7 +14,7 @@ public class LabActivity1EmployeeInformationSystem {
         System.out.print("Enter hours worked: ");
         float hoursWorked = scanner.nextFloat();
         System.out.print("Enter hourly wage: ");
-        float hourlyWage = scanner.nextFLoat();
+        float hourlyWage = scanner.nextFloat();
 
         // Using the operation, hoursWorked and hourlyWage to compute the daily salary
         float dailySalary = hoursWorked * hourlyWage;
