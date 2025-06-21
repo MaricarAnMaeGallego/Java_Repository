@@ -2,7 +2,7 @@
 
 Compilation of Java Laboratory Activities in the subject of DCIT 23.
 
-#INTRODUCTION
+# INTRODUCTION
 This repository is a compilation of basic Java syntax, how to create Simple Information Systems like in work companies and school bases up to developing Graphical User Interface or GUI like simple QUIZ APP and Calculator. Besides Java project, in this repository basic Java AWT and Swing are applied here.
 
 # Table of Content
